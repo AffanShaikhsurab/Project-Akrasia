@@ -19,6 +19,21 @@ export const accordionData = [
   }
 ];
 
+export const disciplineEquationData = [
+  {
+    title: "Value of the Goal",
+    content: "This refers to the perceived importance of the goal and why it matters to you. A strong 'why' is crucial for motivating consistent effort."
+  },
+  {
+    title: "Reward of the Pursuit",
+    content: "This focuses on the enjoyment and satisfaction derived from the process of working towards the goal, not just the end result."
+  },
+  {
+    title: "Cost of the Pursuit",
+    content: "This encompasses the effort, sacrifices, and potential negative consequences associated with pursuing the goal. Minimizing friction and negative associations can significantly improve discipline."
+  }
+];
+
 export const strategyData = [
   {
     title: "Habit & Environmental Design",

@@ -3,6 +3,7 @@ import ParadoxSection from '@/components/sections/ParadoxSection'
 import WhySection from '@/components/sections/WhySection'
 import ImpactSection from '@/components/sections/ImpactSection'
 import HowSection from '@/components/sections/HowSection'
+import DisciplineEquationSection from '@/components/sections/DisciplineEquationSection'
 import StudiesSection from '@/components/sections/StudiesSection'
 // TODO: Create and import ResourcesSection component
 import ResourcesSection from '@/components/sections/ResourcesSection'
@@ -17,6 +18,7 @@ export default function Home() {
         <WhySection />
         <ImpactSection />
         <HowSection />
+        <DisciplineEquationSection />
         <StudiesSection />
         <ResourcesSection />
       </main>
